@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Minea!
+- 👀 I’m interested in web development
+- 🌖 Frontend: HTML, CSS, Javascript, Vue, React, SASS, Bootstrap, Tailwind
+- 🌘 Backend: PHP, SQL, Python, CMS: WordPress & Drupal
+- 🌱 I’m currently learning more about backend development
+- 📫 How to reach me: minealicercontact@gmail.com
